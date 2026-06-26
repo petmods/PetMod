@@ -1,0 +1,57 @@
+{
+  "general": {
+    "404": {
+      "title": "Page not found",
+      "subtext": "The page you are looking for could not be found."
+    },
+    "meta": {
+      "tags": "Tagged with"
+    },
+    "breadcrumbs": {
+      "home": "Home",
+      "back": "Back"
+    }
+  },
+  "header": {
+    "menu": "Menu",
+    "search": "Search",
+    "account": "Account",
+    "cart": "Cart"
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "newsletter": "Subscribe to our Newsletter",
+    "newsletter_text": "Be the first to know about new collections and exclusive offers.",
+    "copyright": "© 2026 PetMod. All rights reserved."
+  },
+  "product": {
+    "title": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "add_to_cart": "Add to Cart",
+    "buy_now": "Buy Now",
+    "sold_out": "Sold Out",
+    "unavailable": "Unavailable",
+    "related_products": "Related Products",
+    "description": "Description",
+    "specifications": "Specifications"
+  },
+  "collection": {
+    "title": "Collection",
+    "products": "Products",
+    "sort": "Sort by",
+    "filter": "Filter"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "continue_shopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "checkout": "Proceed to Checkout"
+  }
+}
